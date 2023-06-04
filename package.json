@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "denque": "^2.1.0",
+    "mysql2": "^3.3.1"
+  }
+}
